@@ -1,0 +1,16 @@
+name: Raji Mubarak
+
+on: The look for Job
+
+jobs: Website Making
+  greeting:
+    runs-on: Laptop
+    permissions: Google Permission
+      issues: No problem
+      pull-requests: Job request
+    steps: Locate me by checking my readme
+    - uses: Html,c++,python,javascript..lots more
+      with: Visual studio code
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Message that will be displayed on users' first issue"
+        pr-message: "Message that will be displayed on users' first pull request"
